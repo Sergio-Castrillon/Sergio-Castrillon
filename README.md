@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio Castrillón</h1>
-- 🌱 I’m currently learning **FullStack Developer**
+- 🌱 I’m currently learning *FullStack Developer*
 
 - 📫 How to reach me **castrillonsergio28@gmail.com**
 
