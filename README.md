@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio Castrillón</h1>
+
+<img src="./dance.gif"></img>
+
 - 🌱 I’m currently learning *FullStack Developer*
 
 - 📫 How to reach me **castrillonsergio28@gmail.com**
