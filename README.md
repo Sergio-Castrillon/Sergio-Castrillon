@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sergio Castrillón</h1>
 
-<img src="./dance.gif"></img>
+<img aling="center" src="./dance.gif"></img>
 
 - 🌱 I’m currently learning *FullStack Developer*
 
